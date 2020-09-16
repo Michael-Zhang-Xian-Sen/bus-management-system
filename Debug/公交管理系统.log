@@ -1,0 +1,129 @@
+﻿  main.c
+f:\代码及杂项 勿动\c-course-design--master\main.c(61): warning C4013: “menu”未定义；假设外部返回 int
+f:\代码及杂项 勿动\c-course-design--master\main.c(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(142): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(147): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(171): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(178): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(182): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(196): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(220): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(223): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(232): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(257): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(262): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(295): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(239): warning C4101: “fp”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(483): warning C4013: “station_append”未定义；假设外部返回 int
+f:\代码及杂项 勿动\c-course-design--master\main.c(415): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(444): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(450): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(407): warning C4101: “nhead”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(407): warning C4101: “ntemp”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(407): warning C4101: “pw”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(408): warning C4101: “fp”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(407): warning C4101: “temp”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(575): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(578): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(581): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(584): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(587): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(590): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(593): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(619): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(622): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(625): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(628): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(631): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(634): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(637): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(569): warning C4101: “i”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(570): warning C4101: “ch”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(569): warning C4101: “icount”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(669): warning C4101: “i”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(670): warning C4101: “ch”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(693): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(702): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(715): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(733): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(753): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(686): warning C4101: “i”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(689): warning C4101: “pw”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(787): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(798): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(834): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(854): warning C4101: “temp”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(888): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(900): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(905): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(914): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(932): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(922): warning C4101: “ch”: 未引用的局部变量
+f:\代码及杂项 勿动\c-course-design--master\main.c(950): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(952): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(959): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(964): warning C4477: “fscanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“journey *”
+f:\代码及杂项 勿动\c-course-design--master\main.c(964): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(965): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“journey *”
+f:\代码及杂项 勿动\c-course-design--master\main.c(971): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(977): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(985): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(994): warning C4047: “初始化”:“char”与“char [1]”的间接级别不同
+f:\代码及杂项 勿动\c-course-design--master\main.c(1013): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\代码及杂项 勿动\c-course-design--master\main.c(91): warning C4716: “Show_LogIn”: 必须返回一个值
+f:\代码及杂项 勿动\c-course-design--master\main.c(401): warning C4716: “Show_Menu”: 必须返回一个值
+  公交管理系统.vcxproj -> F:\代码及杂项 勿动\C-Course-Design--master\Debug\公交管理系统.exe
+  公交管理系统.vcxproj -> F:\代码及杂项 勿动\C-Course-Design--master\Debug\公交管理系统.pdb (Full PDB)
